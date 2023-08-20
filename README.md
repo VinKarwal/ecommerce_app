@@ -1,6 +1,6 @@
 # E-Commerce App
 
-This repository contains an e-commerce app developed as part of an internship assignment at SNSilos. The app is built using Flutter and integrates with a custom-made API.
+This repository contains an e-commerce app developed as part of an internship assignment at SN Silos. The app is built using Flutter and integrates with a custom-made API.
 
 ## Features
 
