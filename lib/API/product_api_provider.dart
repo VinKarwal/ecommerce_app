@@ -6,7 +6,7 @@ class ProductApiProvider {
   Future<List<Product>> fetchProducts() async {
     try {
       final response =
-          await http.get(Uri.parse('http://192.168.141.86:3000/products'));
+          await http.get(Uri.parse('http://localhost:3000/products'));
 
       print('Response status: ${response.statusCode}');
       print('Response body: ${response.body}');
